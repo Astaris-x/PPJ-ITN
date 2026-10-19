@@ -2,7 +2,7 @@
 
 # ☕ Podstawy programowania w Javie 
 
-![Java](https://img.shields.io/badge/Java-ffb3c6?style=for-the-badge&logo=java&logoColor=white&color=ffb3c6)
+![Java](https://img.shields.io/badge/Java-ffb3c6?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-W_trakcie-ff8fa3?style=for-the-badge&logo=sparkles&logoColor=white&color=ff8fa3)
 ![Repo](https://img.shields.io/badge/Repo-Academic-ff4d6d?style=for-the-badge&logo=github&logoColor=white&color=ff4d6d)
 
